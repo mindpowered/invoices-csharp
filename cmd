@@ -1,0 +1,13 @@
+/nologo
+/optimize+
+/debug-
+/unsafe-
+/warn:0
+/out:c:/builds/mindpowered/logic/invoices/build/vcs/csharp/bin/invoices.dll
+/target:library
+/reference:c:/builds/mindpowered/logic/invoices/build/vcs/csharp/bin/maglev.dll
+src\EnumValue.cs
+src\Type.cs
+src\invoices\Invoices.cs
+src\UInt.cs
+src\mindpowered\invoices\Invoices.cs
