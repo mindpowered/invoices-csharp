@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>mindpowered.invoices</id>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <title>invoices</title>
     <authors>Mind Powered Corporation</authors>
     <owners>Mind Powered Corporation</owners>
@@ -10,14 +10,14 @@
     <projectUrl>https://github.com/mindpowered/invoices-csharp</projectUrl>
     <iconUrl>https://www.website.com/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Logic for creating and editing invoices</description>
-    <releaseNotes>Version 0.0.3</releaseNotes>
+    <description>Create, edit, and track invoices as part of your app</description>
+    <releaseNotes>Version 0.0.4</releaseNotes>
     <copyright>Copyright 2020 Mind Powered Corporation</copyright>
     <tags>mindpowered</tags>
     <dependencies>
       <dependency id="mindpowered.maglev" version="*" />
     </dependencies>
-    <summary>Logic for creating and editing invoices</summary>
+    <summary>Create, edit, and track invoices as part of your app</summary>
   </metadata>
   <files>
     <file src="bin\invoices.dll" target="lib" />
